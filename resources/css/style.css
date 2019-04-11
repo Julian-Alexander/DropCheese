@@ -315,32 +315,32 @@ header {
 }
 
 /*------------------------------------------------------*/
-/*-Meals-*/
+/*-Cheeses-*/
 /*------------------------------------------------------*/
 
-.section-meals {
+.section-cheeses {
     padding: 0;
 }
 
-.meals-showcase {
+.cheeses-showcase {
     list-style: none;
     width: 100%;
 }
 
-.meals-showcase li {
+.cheeses-showcase li {
     display: block;
     float: left;
     width: 25%;
 }
 
-.meal-photo {
+.cheese-photo {
     width: 100%;
     margin: 0;
     overflow: hidden;
     background-color: #000;
 }
 
-.meal-photo img {
+.cheese-photo img {
     opacity: 0.7;
     width: 100%;
     height: auto;
@@ -352,7 +352,7 @@ header {
     transition: transform 0.5s, opacity 0.5s, -webkit-transform 0.5s;
 }
 
-.meal-photo img:hover {
+.cheese-photo img:hover {
     opacity: 1;
     -webkit-transform: scale(1.04);
             transform: scale(1.04);
@@ -526,7 +526,7 @@ cite img {
     font-weight: 300;
 }
 
-.plan-price-meal {
+.plan-price-cheese {
     font-size: 80%;
 }
 
